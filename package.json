@@ -1,0 +1,28 @@
+{
+  "name": "scripture-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joshSi/scripture-bot.git"
+  },
+  "keywords": [
+    "Bible",
+    "scripture",
+    "verse",
+    "wisdom"
+  ],
+  "author": "Joshua Si",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/joshSi/scripture-bot/issues"
+  },
+  "homepage": "https://github.com/joshSi/scripture-bot#readme",
+  "dependencies": {
+    "discord.js": "^13.6.0"
+  }
+}
